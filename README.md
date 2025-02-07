@@ -1,6 +1,5 @@
 # 📊 Glassdoor Job Postings - Exploratory Data Analysis (EDA) 🚀
 
-![Glassdoor Jobs](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ## 🎯 Project Overview
 This project analyzes **900 job postings** from Glassdoor to uncover key insights about salaries, job roles, company ratings, and hiring trends. The goal is to help **job seekers** and **employers** make data-driven decisions in the competitive job market. 
